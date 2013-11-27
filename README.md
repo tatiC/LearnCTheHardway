@@ -1,0 +1,4 @@
+LearnCTheHardway
+================
+
+(re)learning C
